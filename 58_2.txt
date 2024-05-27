@@ -1,0 +1,40 @@
+Loja 982262921 – WhatsApp e Ligação
+Não conseguimos reponder chat da olx! Por Favor, chame no whatsapp!
+Entrega em Domicílio Hoje!
+
+==> SUPRATECH – Solução em Suprimentos de Informática
+SSD COMPATIVEL COM NOTEBOOK E COMPUTADOR PADRÃO SATA: 
+120gb = 115,00
+240gb = 150,01
+480gb = 219,90
+512gb = 230,00
+1tb = 390,00
+
+Padrão M.2 nvme
+120gb = 150,03
+256gb = 185,00
+512gb = 250,00
+1tb   = 430,00
+
+Memória Ram p/ Desktop e Notebook
+ddr3 8gb  - 150,02
+ddr4 8gb  - 180,01
+ddr4 16gb - 299,00 até 3200mhz
+- SSDS LACRADOS E À PRONTA ENTREGA
+- PRODUTO IMPORTADO NOVO.
+- Alto desempenho para computadores e notebook's
+- SSD de capacidade total projetado para oferecer desempenho extraordinário e otimizado para proporcionar capacidade de resposta funcional do sistema com tempos incríveis de inicialização carregamento e transferência.
+- Tamanho 2,5"", utiliza a interface SATA 3.0 e é compatível com versões anteriores.
+
+Atinge velocidades de leitura/gravação de até 550/520MB/s para armazenar com eficiência seus dados .  
+COM ESSE DISCO SEU COMPUTADOR/NOTEBOOK VAI LIGAR NO MINIMO 5 VEZES MAIS RÁPIDO
+VAI ABRIR PROGRAMAS MAIS RÁPIDO RESOLVE O PROBLEMA DE DISCO 100%
+
+Dicas para máximo desempenho e turbinar o seu SSD SATA IIII:
+- Habilite a função AHCI (Advanced Host Controller Interface) da placa mãe
+- Utilize interface Sata III
+- Não desfragmente o seu SSD
+- Verifique se os drivers estão atualizados
+- Remova programas desnecessários da inicialização no Msgconfig
+- Mova as pastas da biblioteca do windows e a pasta de downloads para o hd
+- Deixe sempre um espaço livre."
